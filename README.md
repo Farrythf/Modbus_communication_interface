@@ -1,4 +1,6 @@
 # Modbus_communication_interface
+## This is a VS project
+
 An interface used to communicate between windows and Modbus device through socket(Modbus TCP)
 
 It is a simple software used to commucate between Windows and Modbus device.
